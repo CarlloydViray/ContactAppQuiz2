@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232325078875",
+    "project_id": "contactsquiz2mad",
+    "storage_bucket": "contactsquiz2mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232325078875:android:1eddb60d0f430eafb2c47e",
+        "android_client_info": {
+          "package_name": "com.example.quiz_2_mad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232325078875-cibmelv918ks6flbpbtqmi0quano7lsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uup7zmynVZGdUbNKhTasXCC4Ktj43Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232325078875-cibmelv918ks6flbpbtqmi0quano7lsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
